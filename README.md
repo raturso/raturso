@@ -11,6 +11,6 @@
 
 ![Raturso's GitHub stats](https://github-readme-stats.vercel.app/api?username=raturso&show_icons=true&theme=dark)
 
-## Depois termino!
+[Issue 175 - Spawn RU](https://user-images.githubusercontent.com/106784430/211803837-4e7a84fe-c498-4f6c-81e6-35dd2c7ed702.jpg)
 
-  
+  <img src="https://user-images.githubusercontent.com/106784430/211803837-4e7a84fe-c498-4f6c-81e6-35dd2c7ed702.jpg"/>
